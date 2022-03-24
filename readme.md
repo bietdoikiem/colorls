@@ -13,17 +13,17 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Install [colorls](https://github.com/athityakumar/colorls)
+2. Copy `dark_colors.yaml` to `~/.config/colorls/`
+3. Use command `colorls --dark`
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![Rosé Pine with App](assets/rose-pine-moon.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [bietdoikiem](https://github.com/bietdoikiem)
 
 ## Style guide
 
