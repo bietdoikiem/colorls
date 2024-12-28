@@ -3,11 +3,6 @@
 # Rosé Pine Dawn themed light color settings for colorls
 #
 # All natural pine, faux fur and a bit of soho vibes for the classy minimalist
-<<<<<<< HEAD
-=======
-#
-# c/o const void*
->>>>>>> 63922c5 (feat: rose-pine variants)
 
 # Main Colors
 unrecognized_file: '#ea9d34'          # gold    
@@ -53,8 +48,4 @@ addition:          '#56949f'          # foam
 modification:      '#907aa9'          # iris
 deletion:          '#b4637a'          # love
 untracked:         '#ea9d34'          # gold
-<<<<<<< HEAD
-unchanged:         '#286983'          # pine
-=======
-unchanged:         '#286983'          # pine
->>>>>>> 63922c5 (feat: rose-pine variants)
+

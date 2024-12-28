@@ -3,11 +3,6 @@
 # Rosé Pine themed dark color settings for colorls
 #
 # All natural pine, faux fur and a bit of soho vibes for the classy minimalist
-<<<<<<< HEAD
-=======
-#
-# c/o const void*
->>>>>>> 63922c5 (feat: rose-pine variants)
 
 # Main Colors
 unrecognized_file: '#f6c177'          # gold    
@@ -53,8 +48,4 @@ addition:          '#9ccfd8'          # foam
 modification:      '#c4a7e7'          # iris
 deletion:          '#eb6f92'          # love
 untracked:         '#f6c177'          # gold
-<<<<<<< HEAD
-unchanged:         '#31748f'          # pine
-=======
-unchanged:         '#31748f'          # pine
->>>>>>> 63922c5 (feat: rose-pine variants)
+

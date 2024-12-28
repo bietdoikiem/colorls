@@ -20,10 +20,9 @@
 $ mkdir -p ~/.config/colorls
 
 # Download theme
-$ wget -L -O ~/.config/colorls/dark_colors.yaml  https://github.com/bietdoikiem/colorls/raw/main/themes/rose-pine-moon/dark_colors.yaml
-
+$ wget -L -O ~/.config/colorls/dark_colors.yaml https://raw.githubusercontent.com/bietdoikiem/colorls/refs/heads/main/rose-pine-moon/dark_colors.yaml 
 # - or -
-# $ wget -L -O ~/.config/colorls/dark_colors.yaml https://github.com/bietdoikiem/colorls/raw/main/themes/rose-pine/dark_colors.yaml
+# $ wget -L -O ~/.config/colorls/dark_colors.yaml https://raw.githubusercontent.com/bietdoikiem/colorls/refs/heads/main/rose-pine/dark_colors.yaml 
 
 # try out dark
 $ colorls --dark
@@ -32,8 +31,7 @@ $ colorls --dark
 ### 3. Install `rose-pine-dawn` as `light` theme
 ```zsh
 # Download theme
-$ wget -L -O ~/.config/colorls/light_colors.yaml https://github.com/bietdoikiem/colorls/raw/main/themes/rose-pine-dawn/light_colors.yaml
-
+$ wget -L -O ~/.config/colorls/light_colors.yaml https://raw.githubusercontent.com/bietdoikiem/colorls/refs/heads/main/rose-pine-dawn/light_colors.yaml 
 # try out light
 $ colorls --light
 ```
